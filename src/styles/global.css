@@ -1,0 +1,6 @@
+.tox-statusbar {
+  display: none !important  ;
+}
+.tox-notifications-container {
+  display: none;
+}

@@ -1,0 +1,172 @@
+{
+  "expenses": [
+    {
+      "date": "2025-04-25",
+      "type": "Phí hoàn hàng",
+      "value": 28000123.123,
+      "amount": 1,
+      "note": "Nguyễn Thảo 22",
+      "id": "0e78"
+    },
+    {
+      "date": "2025-04-25",
+      "type": "Phí hoàn hàng",
+      "value": 28000,
+      "amount": 1,
+      "note": "Nguyễn Thảo 33",
+      "id": "7fab"
+    },
+    {
+      "id": "b522",
+      "date": "2025-04-25",
+      "type": "Phí hoàn hàng",
+      "value": 28000,
+      "amount": 1,
+      "note": "Nguyễn Thảo 4"
+    },
+    {
+      "id": "0368",
+      "date": "2025-04-25",
+      "type": "Phí hoàn hàng",
+      "value": 28000,
+      "amount": 1,
+      "note": "Nguyễn Thảo 5"
+    },
+    {
+      "id": "6301",
+      "date": "2025-04-25",
+      "type": "Phí hoàn hàng",
+      "value": 28000,
+      "amount": 1,
+      "note": "Nguyễn Thảo"
+    },
+    {
+      "date": "2025-04-15",
+      "type": "Phí hoàn hàng",
+      "value": 28000,
+      "amount": 1,
+      "note": "Nguyễn Thảo 100123",
+      "id": "552e"
+    },
+    {
+      "id": "269f",
+      "date": "2025-05-10",
+      "type": "ưqeqwe",
+      "value": 123123,
+      "amount": "qưe",
+      "note": "qưe"
+    },
+    {
+      "date": "2025-05-10",
+      "type": "100000",
+      "value": 1000000,
+      "amount": 100,
+      "note": "1000000p",
+      "id": "777e"
+    },
+    {
+      "id": "2e54",
+      "date": "2025-04-15",
+      "type": "Phí hoàn hàng",
+      "value": 28000,
+      "amount": 1,
+      "note": "Nguyễn Thảo 110"
+    },
+    {
+      "id": "90ad",
+      "date": "2025-04-15",
+      "type": "Phí hoàn hàng",
+      "value": 28000,
+      "amount": 1,
+      "note": "Nguyễn Thảo 110"
+    },
+    {
+      "id": "dffd",
+      "date": "2025-04-15",
+      "type": "Phí hoàn hàng",
+      "value": 28000,
+      "amount": 1,
+      "note": "Nguyễn Thảo 110"
+    },
+    {
+      "id": "965c",
+      "date": "2025-04-15",
+      "type": "Phí hoàn hàng",
+      "value": 280001,
+      "amount": 1,
+      "note": "Nguyễn Thảo 110"
+    },
+    {
+      "id": "345d",
+      "date": "2025-04-15",
+      "type": "Phí hoàn hàng",
+      "value": 280001,
+      "amount": 1,
+      "note": "Nguyễn Thảo 1103"
+    },
+    {
+      "id": "a1fb",
+      "date": "2025-04-15",
+      "type": "Phí hoàn hàng",
+      "value": 280001,
+      "amount": 1,
+      "note": "Nguyễn Thảo 1103"
+    },
+    {
+      "id": "e59e",
+      "date": "2025-04-15",
+      "type": "Phí hoàn hàng",
+      "value": 280001,
+      "amount": 1,
+      "note": "Nguyễn Thảo 11034"
+    },
+    {
+      "id": "7943",
+      "date": "2025-04-15",
+      "type": "Phí hoàn hàng",
+      "value": 280123001,
+      "amount": 1,
+      "note": "Nguyễn Thảo 11034"
+    },
+    {
+      "id": "e91e",
+      "date": "2025-04-15",
+      "type": "Phí hoàn hàng 1",
+      "value": 280123001,
+      "amount": 1,
+      "note": "Nguyễn Thảo 11034"
+    },
+    {
+      "id": "0c58",
+      "date": "2025-04-15",
+      "type": "Phí hoàn hàng 2",
+      "value": 280123001,
+      "amount": 1,
+      "note": "Nguyễn Thảo 11034"
+    },
+    {
+      "date": "2025-04-15",
+      "type": "Phí hoàn hàng 22",
+      "value": 2801230,
+      "amount": 1,
+      "note": "Nguyễn Thảo 11034",
+      "id": "5884"
+    },
+    {
+      "date": "2025-04-15",
+      "type": "Phí hoàn hàng 232",
+      "value": 280123,
+      "amount": 1,
+      "note": "Nguyễn Thảo 11034",
+      "id": "e895"
+    },
+    {
+      "date": "2024-10-15",
+      "type": "Phí hoàn hàng 232",
+      "value": 280123001,
+      "amount": 1,
+      "note": "Nguyễn Thảo 11034",
+      "id": "0138"
+    }
+  ]
+}
