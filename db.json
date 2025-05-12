@@ -1,44 +1,36 @@
 {
   "expenses": [
     {
-      "date": "2025-04-25",
-      "type": "Phí hoàn hàng",
-      "value": 28000123.123,
-      "amount": 1,
-      "note": "Nguyễn Thảo 22",
-      "id": "0e78"
-    },
-    {
-      "date": "2025-04-25",
-      "type": "Phí hoàn hàng",
-      "value": 28000,
-      "amount": 1,
-      "note": "Nguyễn Thảo 33",
+      "note": "1234",
+      "amount": 123,
+      "value": 123,
+      "type": "123",
+      "date": "2025-05-06",
       "id": "7fab"
     },
     {
-      "id": "b522",
-      "date": "2025-04-25",
-      "type": "Phí hoàn hàng",
-      "value": 28000,
+      "note": "Nguyễn Thảo 41",
       "amount": 1,
-      "note": "Nguyễn Thảo 4"
+      "value": 28000,
+      "type": "Phí hoàn hàng",
+      "date": "2025-04-25",
+      "id": "b522"
     },
     {
-      "id": "0368",
-      "date": "2025-04-25",
-      "type": "Phí hoàn hàng",
-      "value": 28000,
+      "note": "Nguyễn Thảo 51",
       "amount": 1,
-      "note": "Nguyễn Thảo 5"
+      "value": 28000,
+      "type": "Phí hoàn hàng",
+      "date": "2025-04-25",
+      "id": "0368"
     },
     {
-      "id": "6301",
-      "date": "2025-04-25",
-      "type": "Phí hoàn hàng",
+      "note": "Nguyễn Thảo",
+      "amount": 123,
       "value": 28000,
-      "amount": 1,
-      "note": "Nguyễn Thảo"
+      "type": "Phí hoàn hàng",
+      "date": "2025-04-25",
+      "id": "6301"
     },
     {
       "date": "2025-04-15",
@@ -129,12 +121,12 @@
       "note": "Nguyễn Thảo 11034"
     },
     {
-      "id": "e91e",
-      "date": "2025-04-15",
-      "type": "Phí hoàn hàng 1",
-      "value": 280123001,
+      "note": "Nguyễn Thảo 1103111",
       "amount": 1,
-      "note": "Nguyễn Thảo 11034"
+      "value": 280123001,
+      "type": "Phí hoàn hàng 1",
+      "date": "2025-04-15",
+      "id": "e91e"
     },
     {
       "id": "0c58",
@@ -145,28 +137,28 @@
       "note": "Nguyễn Thảo 11034"
     },
     {
-      "date": "2025-04-15",
-      "type": "Phí hoàn hàng 22",
-      "value": 2801230,
-      "amount": 1,
-      "note": "Nguyễn Thảo 11034",
-      "id": "5884"
+      "id": null,
+      "note": "123",
+      "amount": 123,
+      "value": 123,
+      "type": "123",
+      "date": "2025-05-13"
     },
     {
-      "date": "2025-04-15",
-      "type": "Phí hoàn hàng 232",
-      "value": 280123,
-      "amount": 1,
-      "note": "Nguyễn Thảo 11034",
-      "id": "e895"
+      "id": null,
+      "note": "123",
+      "amount": 123,
+      "value": 123,
+      "type": "123",
+      "date": "2025-05-13"
     },
     {
-      "date": "2024-10-15",
-      "type": "Phí hoàn hàng 232",
-      "value": 280123001,
-      "amount": 1,
-      "note": "Nguyễn Thảo 11034",
-      "id": "0138"
+      "id": null,
+      "note": "123",
+      "amount": 123,
+      "value": 123,
+      "type": "123",
+      "date": "2025-05-13"
     }
   ]
 }

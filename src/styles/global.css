@@ -4,3 +4,7 @@
 .tox-notifications-container {
   display: none;
 }
+
+.required{
+  color:red
+}
