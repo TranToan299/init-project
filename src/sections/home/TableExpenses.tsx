@@ -35,8 +35,6 @@ export default function ExpensesForm({
     amount: undefined,
     note: undefined,
   };
-  console.log(editingItem);
-
   const methods = useForm<FormValuesProps>({
     resolver: yupResolver(expensesSchema),
     defaultValues,
@@ -95,6 +93,7 @@ export default function ExpensesForm({
           display: 'flex',
           gap: '10px',
         }}
+        className='font-bold'
       >
         <Button
           color="default"

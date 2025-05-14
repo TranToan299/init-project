@@ -17,7 +17,6 @@ export default function HomePage() {
   const [editingItem, setEditingItem] = useState<IExpenses | null>(null);
 
   const handleDelete = async (id: number | string) => {
-    console.log(id);
     await ExpensesApi.delete(id);
     message.success('Xóa thành công');
     getListExpenses();
@@ -84,7 +83,7 @@ export default function HomePage() {
   return (
     <>
       <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 16 }}>
-        <h1>Chi phí</h1>
+        <div className='font-bold text-6xl'>Chi phí 1</div>
         <Button
           icon={<PlusOutlined />}
           type="primary"

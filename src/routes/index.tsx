@@ -5,7 +5,8 @@ import MainLayout from '../layouts/main';
 // config
 //
 import {
-  HomePage
+  HomePage,
+  LogInPage
 } from './elements';
 
 // ----------------------------------------------------------------------
@@ -16,7 +17,9 @@ export default function Router() {
     {
       element: <MainLayout />,
       children: [
-        { element: <HomePage />, index: true },       
+        { element: <HomePage />, index: true },    
+        { path:"/login", element: <LogInPage />, index: true },       
+
       ],
     },
 
